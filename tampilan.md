@@ -42,3 +42,6 @@ Menganti icon menu
 menu editor(mengedit posisi menu)
 https://www.lifewire.com/customize-xfce-desktop-environment-2202080
 
+### Menganti lsb_realese
+Menganti lsb_realese 
+posisi : 
