@@ -29,17 +29,16 @@ Mengubah tampialn icon
 menganti tampilan booting
 <br>/usr/share/plymouth/themes
 
-### mengganti icon menu
+### Mengganti icon menu
 Menganti icon menu
 /usr/share/pixmaps/xubuntu-menu.png
 /usr/share/pixmaps/xubuntu-menu.svg
 <br>
 
 ### Menganti nama installan ISO
-/home/user/.config/xfce4/desktop/
+?
 
 ### Menganti Posisi urutan menu
 menu editor(mengedit posisi menu)
 https://www.lifewire.com/customize-xfce-desktop-environment-2202080
-
 
