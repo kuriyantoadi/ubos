@@ -1,6 +1,6 @@
 # Tampilan
 
-### Menganti Background grub
+### Mengganti Background grub
 letak konfigiurasi grub
 /boot/grub/grub.cfg
 <br>
@@ -8,26 +8,26 @@ letak file grub
 posisi /usr/share/desktop-base/softwaves-theme/grub
 <br><br>
 
-### Menganti background
+### Mengganti background
 <br>Mengubah tampialn default background
 <br>posisi wallpaper /usr/share/backgroud/
 
 
-### Menganti GTK
+### Mengganti GTK
 Mengubah tampilan tema 
 posisi /usr/share/themes/
 <br>https://www.gnome-look.org/content/show.php/Arc-OSX-themes?content=175536
 <br>https://www.xfce-look.org/p/1160290/
 <br><br>
 
-### Menganti Icon
+### Mengganti Icon
 Mengubah tampialn icon
 <br>posisi /usr/share/icon/
 <br>https://www.opendesktop.org/s/XFCE/p/1196137/
 
-### Menganti logo booting
+### Mengganti logo booting
 menganti tampilan booting
-<br>/usr/share/plymouth/themes
+<br>/usr/share/plymouth/themes/xubuntu-logo/
 
 ### Mengganti icon menu
 Menganti icon menu
@@ -35,10 +35,10 @@ Menganti icon menu
 /usr/share/pixmaps/xubuntu-menu.svg
 <br>
 
-### Menganti nama installan ISO
+### Mengganti nama installan ISO
 ?
 
-### Menganti Posisi urutan menu
+### Mengganti Posisi urutan menu
 menu editor(mengedit posisi menu)
 https://www.lifewire.com/customize-xfce-desktop-environment-2202080
 
