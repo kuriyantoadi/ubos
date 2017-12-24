@@ -28,3 +28,7 @@ Mengubah tampialn icon
 ### Menganti logo booting
 menganti tampilan booting
 <br>/usr/share/plymouth/themes
+
+### mengganti icon menu
+Menganti icon menu
+<br>
