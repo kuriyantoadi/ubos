@@ -26,4 +26,5 @@ Mengubah tampialn icon
 <br>https://www.opendesktop.org/s/XFCE/p/1196137/
 
 ### Menganti logo booting
+menganti tampilan booting
 <br>/usr/share/plymouth/themes
