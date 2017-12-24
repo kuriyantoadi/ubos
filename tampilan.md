@@ -30,7 +30,7 @@ menganti tampilan booting
 <br>/usr/share/plymouth/themes/xubuntu-logo/
 
 ### Mengganti icon menu
-Menganti icon menu
+Mengganti icon menu
 /usr/share/pixmaps/xubuntu-menu.png
 /usr/share/pixmaps/xubuntu-menu.svg
 <br>
@@ -42,6 +42,6 @@ Menganti icon menu
 menu editor(mengedit posisi menu)
 https://www.lifewire.com/customize-xfce-desktop-environment-2202080
 
-### Menganti lsb_realese
-Menganti lsb_realese 
-posisi : 
+### Mengganti lsb_release
+Mengganti lsb_realese informasi 
+posisi : /etc/lsb_release
