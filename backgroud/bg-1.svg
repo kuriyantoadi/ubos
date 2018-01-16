@@ -30,19 +30,6 @@
          offset="0"
          id="stop4047" />
     </linearGradient>
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter1278"
-       x="-1.141779"
-       width="3.2835579"
-       y="-1.2644776"
-       height="3.5289553">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="93.603256"
-         id="feGaussianBlur1280" />
-    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -52,7 +39,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49890313"
-     inkscape:cx="580.07689"
+     inkscape:cx="582.08129"
      inkscape:cy="385.54004"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -71,7 +58,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -81,7 +68,7 @@
      id="layer1"
      transform="translate(0,-87)">
     <rect
-       style="opacity:1;fill:#05050e;fill-opacity:1;stroke:none;stroke-width:1.32300007;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#00002e;fill-opacity:1;stroke:none;stroke-width:1.32300007;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect1935"
        width="299.8764"
        height="211.14293"
@@ -190,12 +177,5 @@
            id="tspan872"
            sodipodi:role="line">Melati Kuning</tspan></text>
     </g>
-    <ellipse
-       style="opacity:1;fill:#83761a;fill-opacity:1;stroke:none;stroke-width:1.05551136;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter1278)"
-       id="path1028"
-       cx="138.13693"
-       cy="200.74744"
-       rx="98.376228"
-       ry="98.906555" />
   </g>
 </svg>
