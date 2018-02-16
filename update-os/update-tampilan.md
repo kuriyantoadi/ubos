@@ -8,7 +8,7 @@ posisi /usr/share/desktop-base/softwaves-theme/grub
 <br><br>
 
 ### Mengganti background
-<br>Mengubah tampialn default background
+Mengubah tampialn default background
 <br>posisi wallpaper /usr/share/backgroud/
 <br><br>
 
