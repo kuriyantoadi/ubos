@@ -9,3 +9,17 @@ Penambahan sublime text
 Penemabahan program xampp
 
 ### Penambahan Repo
+?
+
+### Mengganti nama installan ISO
+?
+
+### Mengganti lsb_release
+Mengganti lsb_realese informasi
+posisi : /etc/lsb_release
+
+## letak konfigiurasi grub
+/boot/grub/grub.cfg
+
+## letak file grub
+/usr/share/desktop-base/softwaves-theme/grub

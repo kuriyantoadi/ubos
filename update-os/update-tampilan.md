@@ -12,9 +12,8 @@ posisi /usr/share/desktop-base/softwaves-theme/grub
 <br>Mengubah tampialn default background
 <br>posisi wallpaper /usr/share/backgroud/
 
-
 ### Mengganti GTK
-Mengubah tampilan tema 
+Mengubah tampilan tema
 posisi /usr/share/themes/
 <br>https://www.gnome-look.org/content/show.php/Arc-OSX-themes?content=175536
 <br>https://www.xfce-look.org/p/1160290/
@@ -35,13 +34,10 @@ Mengganti icon menu
 /usr/share/pixmaps/xubuntu-menu.svg
 <br>
 
-### Mengganti nama installan ISO
-?
-
 ### Mengganti Posisi urutan menu
 menu editor(mengedit posisi menu)
 https://www.lifewire.com/customize-xfce-desktop-environment-2202080
 
-### Mengganti lsb_release
-Mengganti lsb_realese informasi 
-posisi : /etc/lsb_release
+### gtk
+/usr/share/themes/
+setting -> tampilan
