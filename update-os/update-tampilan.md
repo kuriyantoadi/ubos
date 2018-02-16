@@ -45,3 +45,6 @@ https://www.lifewire.com/customize-xfce-desktop-environment-2202080
 /usr/share/themes/
 setting -> tampilan
 <br><br>
+
+### Menganti tampilan installasi berlangusng
+** ?
