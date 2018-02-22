@@ -15,8 +15,11 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="ubos-logo.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ubos-logo.svg.2018_01_09_10_34_05.0.svg"
+   inkscape:export-filename="/home/melati/remaster/ubos-master/icon/icon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2">
     <linearGradient
@@ -50,18 +53,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="314.69873"
-     inkscape:cy="538.47135"
+     inkscape:zoom="0.7"
+     inkscape:cx="282.94662"
+     inkscape:cy="522.53768"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:measure-start="0,0"
      inkscape:measure-end="0,0"
      inkscape:window-width="1366"
-     inkscape:window-height="704"
+     inkscape:window-height="719"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="25"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
@@ -86,17 +89,6 @@
        cy="132.17195"
        rx="64.95253"
        ry="64.661392" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:16.30325508px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40758136"
-       x="11.93828"
-       y="77.672333"
-       id="text5321"><tspan
-         sodipodi:role="line"
-         x="11.93828"
-         y="77.672333"
-         style="stroke-width:0.40758136"
-         id="tspan5346">UB-OS</tspan></text>
     <path
        style="fill:#fafafa;fill-opacity:1;stroke:none;stroke-width:0.41200039px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 144.30909,154.07377 5.11536,-4.33317 c 0,0 0.38877,-1.49712 0.8105,-2.12956 0.48656,-0.72968 1.91141,-1.81183 1.91141,-1.81183 0,0 2.86278,-0.98702 4.06441,-1.86775 1.60949,-1.17966 4.01633,-4.43212 4.01633,-4.43212 0,0 -0.48417,6.04842 -1.96229,8.58929 -0.51826,0.89092 -2.28149,2.09299 -2.28149,2.09299 0,0 -1.49117,0.92505 -2.33556,1.07484 -1.27997,0.2271 -3.88784,-0.31142 -3.88784,-0.31142 l -5.57455,4.58056 z"

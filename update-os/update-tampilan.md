@@ -48,3 +48,12 @@ setting -> tampilan
 
 ### Menganti tampilan installasi berlangusng
 ** ?
+
+### Mengubah tampilan icon start menu
+
+### Mengubah tampilan Terminal
+ * tampilan warna
+ * Ukuran font
+
+### 
+
