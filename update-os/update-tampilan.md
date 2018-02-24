@@ -27,7 +27,8 @@ Mengubah tampialn icon
 
 ### Mengganti logo booting
 menganti tampilan booting
-<br>/usr/share/plymouth/themes/xubuntu-logo/
+<br>/usr/share/plymouth/themes/xubuntu-logo/ (gagal)
+<br>/lib/plymount/themes/xubuntu/xubuntu-logo/wallpaper.png
 <br><br>
 
 ### Mengganti icon menu
@@ -50,10 +51,16 @@ setting -> tampilan
 ** ?
 
 ### Mengubah tampilan icon start menu
+klik kanan -> propertis -> img
 
 ### Mengubah tampilan Terminal
  * tampilan warna
- * Ukuran font
+ * Ukuran font 
 
-### 
+### Menganti tampilan start menu
 
+### Mengaktifkan Tombol seper
+keyboard -> application shortcuts -> add -> whisker menu 
+http://sanggarlinux.blogspot.co.id/2014/12/menghidupkan-fungsi-tombol-windows-di.html
+
+r

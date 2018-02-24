@@ -24,6 +24,8 @@ Mengganti lsb_realese informasi
 /boot/grub/grub.cfg
 <br><br>
 
+
 ## letak file grub
 /usr/share/desktop-base/softwaves-theme/grub
+# Wallpaper grub tidak di temukan
 <br><br>

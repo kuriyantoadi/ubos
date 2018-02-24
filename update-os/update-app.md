@@ -11,7 +11,7 @@ Thunar
 <br><br>
 
 ### Terminal
-xfce4-terminal 0.6.3
+xfce4-terminal 
 <br><br>
 
 ### Pemutar Musik
