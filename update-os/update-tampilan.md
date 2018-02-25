@@ -6,7 +6,7 @@
 - [x] Menganti backgroud booting
 - [x] Menganti GTK Thema				
 - [ ] Menganti tampilan installasi berlangsung
-- [x] Mengant Icon
+- [x] Menganti Icon
 
 --------------------------------------------------------------------------------------------------------------------
 
