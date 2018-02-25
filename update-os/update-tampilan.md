@@ -1,8 +1,11 @@
 # Tampilan
 
-- [ ] Menganti backgroud grub			- [ ] Menganti logo booting
-- [x] Menganti backgroud wallpaper		- [x] Menganti backgroud booting
-- [x] Menganti GTK Thema				- [ ] Menganti tampilan installasi berlangsung
+- [ ] Menganti backgroud grub			
+- [ ] Menganti logo booting
+- [x] Menganti backgroud wallpaper		
+- [x] Menganti backgroud booting
+- [x] Menganti GTK Thema				
+- [ ] Menganti tampilan installasi berlangsung
 - [x] Mengant Icon
 
 --------------------------------------------------------------------------------------------------------------------
