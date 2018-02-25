@@ -4,7 +4,7 @@ Ini adala penulisan tentang update sistem yang berbasis umum, ini harus dibedaka
 
 - [ ] Update Kernel
 - [ ] Penambahan Repo
-- [ ] Menganti informasi lsb release
+- [x] Menganti informasi lsb release
 - [ ] Menganti nama sistem operasi waktu di grub
 - [ ] Menganti tampilan pada screenfetch
 
