@@ -51,14 +51,15 @@ setting -> tampilan
 <br><br>
 
 ### Menganti tampilan installasi berlangusng
-**?
 
 ### Mengubah tampilan icon start menu
 klik kanan -> propertis -> img
 
 ### Mengubah tampilan Terminal
- * tampilan warna
- * Ukuran font 
+ * tampilan warna (tango)
+ * Ukuran font (11)
+ * Jenis font (monospace)
+ * Transparan (8,8)
 
 ### Menganti tampilan start menu
 
