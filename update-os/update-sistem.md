@@ -8,6 +8,7 @@ Ini adala penulisan tentang update sistem yang berbasis umum, ini harus dibedaka
 - [ ] Menganti nama sistem operasi waktu di grub
 - [ ] Menganti tampilan pada screenfetch
 
+----
 
 ### Update Kernel
 Melakukan updatae kernel ke kernel terbaru
@@ -31,6 +32,6 @@ Menganti nama sistem operasi digrub
 * /boot/grub/grub.cfg
 <br><br>
 
-### Menganti tulisan installasi
+### Menganti tampilan pada screenfetch
 **?**
 <br><br>
