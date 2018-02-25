@@ -9,7 +9,9 @@ posisi /usr/share/desktop-base/softwaves-theme/grub
 
 ### Mengganti background
 Mengubah tampialn default background
-<br>posisi wallpaper /usr/share/backgroud/
+<br>posisi wallpaper /usr/share/backgroud/ (salah)
+<br>~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-desktop.xml (posisi konfigurasi)
+<br>/usr/share/xfce4/backdrops/ (posisi tersimpan)
 <br><br>
 
 ### Mengganti GTK
@@ -28,6 +30,7 @@ Mengubah tampialn icon
 ### Mengganti logo booting
 menganti tampilan booting
 <br>/usr/share/plymouth/themes/xubuntu-logo/ (gagal)
+<br>/etc/lightdm/lightdm-gtk-greeter.conf (konfigurasi awal)
 <br>/lib/plymount/themes/xubuntu/xubuntu-logo/wallpaper.png
 <br><br>
 
@@ -59,8 +62,7 @@ klik kanan -> propertis -> img
 
 ### Menganti tampilan start menu
 
-### Mengaktifkan Tombol seper
+### Mengaktifkan Tombol super
 keyboard -> application shortcuts -> add -> whisker menu 
 http://sanggarlinux.blogspot.co.id/2014/12/menghidupkan-fungsi-tombol-windows-di.html
 
-r
