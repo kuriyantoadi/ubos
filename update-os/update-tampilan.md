@@ -1,5 +1,12 @@
 # Tampilan
 
+- [ ] Menganti backgroud grub
+- [ ] Menganti backgroud wallpaper
+
+
+
+--------------------------------------------------------------------------------------------------------------------
+
 ### Mengganti Background grub
 letak konfigiurasi grub
 * /boot/grub/grub.cfg <b>(salah)</b>
@@ -46,7 +53,7 @@ https://www.lifewire.com/customize-xfce-desktop-environment-2202080
 
 ### gtk
 Mengubah tampilan tema
-* /usr/share/themes/
+* /usr/share/themes/ (numix)
 setting -> tampilan
 <br><br>
 
