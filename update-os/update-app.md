@@ -1,72 +1,83 @@
-### Office
-libreoffice
+# Pemasangan Aplikasi Default UBOS
+
+Ini adalah file dokumentasi penulisan daftar aplikasi standar yang akan dipasang pada sistem operasi **UBOS**
+
+- [ ] Kebutuhan Kantor
+- [ ] Web Browser
+- [ ] File Manager
+- [ ] Terminal
+- [ ] Pembuka Multimedia
+- [ ] Editor Multimedia
+- [ ] Text Editor
+- [ ] Ektrak Arzip
+- [ ] Aplikasi tambahan
+- [ ] Aplikasi Untuk Mahasiswa
+---
+
+### Kebutuhan Kantor
+* libreoffice
+* kingsoft
 <br><br>
 
 ### Web Browser
-chromium
+* chromium
+* google chrome
+* firefox
 <br><br>
 
 ### File Manager
-Thunar
+* Thunar
+* nautilus
 <br><br>
 
 ### Terminal
-xfce4-terminal 
+* xfce4-terminal 
 <br><br>
 
-### Pemutar Musik
-Rhythmbox
+### Pembuka Multimedia
+Pemutar Musik
+* Rhythmbox 
+Pembuka Video
+* VLC
+* Parole (bawaan)
+Pembuka Photo
+* ristretto (bawaan)
 <br><br>
 
-### Pemutar Video
-vlc
-<br><br>
+### Editor Multimedia
+Editor Photo
+* gimp
+* krita
+
+Editor Vektor
+* inkscape
+
+Editor Suara
+* audaycity
 
 ### Text editor
-1. Mousepad 0.3.0
-2. Sublime
+* Mousepad 0.3.0 (bawaan)
+* Sublime
+* Atom
 <br><br>
 
 ### Ektrak Arsip
-Archive Manager
+* Archive Manager
 <br><br>
 
-### Editor Photo
-gimp
-<br><br>
-
-### Editor Vektor
-inkscape
-<br><br>
-
-### Editor Suara
-audycity
-<br><br>
-
-### Simulasi Jaringan
-cisco packet tracer
-<br><br>
-
-### Program Burning
-** ?
-<br><br>
-
-### Program Catatan
-xpad
-<br><br>
-
-### localserver
-lampp
-<br><br>
-
-### perekam desktop
-simplescreenrecorder
-<br><br>
-
-### perekam dengan webcam
+### Aplikasi Tambahan
+Aplikasi bakar data ke CD atau DVD
+* ?
+Aplikasi rekam desktop
+* simplescreenrecorder
+Apliasi rekam webcem
 cheese
+
+### Aplikasi Mahasiswa
+Simulasi Jaringan
+* cisco packet tracer
+* GNS3
+Program localserver
+* lampp
 <br><br>
 
-### pembuka Photo
-shotwell
-<br><br>
