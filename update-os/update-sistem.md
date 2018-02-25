@@ -1,31 +1,36 @@
-## Update Kernel
-menganti kernel nya jadi kernel terbaru
+# Update Sistem dan identitas UBOS
+
+Ini adala penulisan tentang update sistem yang berbasis umum, ini harus dibedakan dengan update app atau tampilan karena akan membahas tentang identitas dari sistem operasi **UBOS**.
+
+- [ ] Update Kernel
+- [ ] Penambahan Repo
+- [ ] Menganti informasi lsb release
+- [ ] Menganti nama sistem operasi waktu di grub
+- [ ] Menganti tampilan pada screenfetch
+
+
+### Update Kernel
+Melakukan updatae kernel ke kernel terbaru
 <br>http://www.gaptek.net/2017/03/cara-upgrade-kernel-di-ubuntu-ke-versi.html
 <br><br>
 
-### Tambahan program Web Server
-Penemabahan program xampp
-<br><br>
-
 ### Penambahan Repo
-?
-<br><br>
-
-### Mengganti nama installan ISO
-?
+Melakukan penambahan atau pergantian repo, 
+* kambing.ui.ac.id
+* buaya.klas.or.id
+* kartolo.datautama.sby.net.id
 <br><br>
 
 ### Mengganti lsb_release
 Mengganti lsb_realese informasi
-<br>posisi : /etc/lsb_release
+* /etc/lsb_release
 <br><br>
 
-## letak konfigiurasi grub
-/boot/grub/grub.cfg
+### Menganti nama sistem operasi waktu di grub
+Menganti nama sistem operasi digrub
+* /boot/grub/grub.cfg
 <br><br>
 
-
-## letak file grub
-/usr/share/desktop-base/softwaves-theme/grub
-# Wallpaper grub tidak di temukan
+### Menganti tulisan installasi
+**?**
 <br><br>
