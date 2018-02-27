@@ -7,6 +7,7 @@ Ini adala penulisan tentang update sistem yang berbasis umum, ini harus dibedaka
 - [x] Menganti informasi lsb release
 - [ ] Menganti nama sistem operasi waktu di grub
 - [ ] Menganti tampilan pada screenfetch
+- [x] Mengaktifkan Tombol super
 
 ----
 
@@ -34,4 +35,9 @@ Menganti nama sistem operasi digrub
 
 ### Menganti tampilan pada screenfetch
 **?**
+<br><br>
+
+### Mengaktifkan Tombol super
+keyboard -> application shortcuts -> add -> whisker menu 
+http://sanggarlinux.blogspot.co.id/2014/12/menghidupkan-fungsi-tombol-windows-di.html
 <br><br>

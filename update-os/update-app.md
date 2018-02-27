@@ -32,11 +32,13 @@ Ini adalah file dokumentasi penulisan daftar aplikasi standar yang akan dipasang
 
 ### Terminal
 * xfce4-terminal 
+* terminix
 <br><br>
 
 ### Pembuka Multimedia
 Pemutar Musik
 * Rhythmbox 
+?
 Pembuka Video
 * VLC
 * Parole (bawaan)
@@ -59,6 +61,9 @@ Editor Suara
 * Mousepad 0.3.0 (bawaan)
 * Sublime
 * Atom
+* gedit
+* geany
+* leafpad
 <br><br>
 
 ### Ektrak Arsip
@@ -70,8 +75,9 @@ Aplikasi bakar data ke CD atau DVD
 * ?
 Aplikasi rekam desktop
 * simplescreenrecorder
-Apliasi rekam webcem
-cheese
+* kazam
+Apliasi rekam webcam
+* cheese
 
 ### Aplikasi Mahasiswa
 Simulasi Jaringan
