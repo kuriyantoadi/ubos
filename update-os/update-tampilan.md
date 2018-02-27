@@ -6,7 +6,6 @@
 - [x] Menganti Backgroud wallpaper
 - [x] Menganti Icon		
 - [x] Menganti GTK Thema				
-- [ ] Menganti Tampilan installasi berlangsung
 - [x] Menganti icon menu
 - [x] Mengubah tampilan Terminal
 

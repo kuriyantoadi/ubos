@@ -2,7 +2,7 @@
 
 Ini adala penulisan tentang update sistem yang berbasis umum, ini harus dibedakan dengan update app atau tampilan karena akan membahas tentang identitas dari sistem operasi **UBOS**.
 
-- [ ] Update Kernel
+- [x] Update Kernel
 - [ ] Penambahan Repo
 - [x] Menganti informasi lsb release
 - [ ] Menganti nama sistem operasi waktu di grub
@@ -13,6 +13,10 @@ Ini adala penulisan tentang update sistem yang berbasis umum, ini harus dibedaka
 
 ### Update Kernel
 Melakukan updatae kernel ke kernel terbaru
+kernel ubuntu 14.04 -> 3.13.0
+error install kernel 4.16.0
+kernel berhasil 4.12.0
+<br>http://kernel.ubuntu.com/~kernel-ppa/mainline/v4.12-rc1/
 <br>http://www.gaptek.net/2017/03/cara-upgrade-kernel-di-ubuntu-ke-versi.html
 <br><br>
 
