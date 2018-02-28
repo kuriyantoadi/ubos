@@ -5,5 +5,5 @@ Daftar OS pembading untuk UBOS
 * tea os
 * ubuntu
 * xubuntu
-* debian
+* mint
 
