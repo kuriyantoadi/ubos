@@ -2,7 +2,7 @@
 
 Tea OS adalah sistem operasi yang dibuat oleh mahasiswa UDINUS Semarang Jawa Tengah. 
 
-Data Tea OS
+### Data Tea OS
 
 - [x] Kernel			
 - [x] Icon	 		
@@ -44,46 +44,46 @@ CPU  = 27.7 %
 
 ## Program Default
 Burning CD dan DVD 
-** Brasero
+* Brasero
 
 Pemutar Musik
-** Audacious
+* Audacious
 
 Pemutar Video
-** VLC Media Player
+* VLC Media Player
 
 Pembuka PDF
-** Document Viewer
+* Document Viewer
 
 Web Browser
-** Firefox
+* Firefox
 
 Office 
-** LibreOffice
-** Libreoffice Base
-** LibreOffice Calc
-** LibreOffice Draw
-** LibreOffice Impress
-** LibreOffice Math
-** LibreOffice Writer
+* LibreOffice
+* Libreoffice Base
+* LibreOffice Calc
+* LibreOffice Draw
+* LibreOffice Impress
+* LibreOffice Math
+* LibreOffice Writer
 
 Education
-** LibreOffice Math
+* LibreOffice Math
 
 Terminal 
-** xfce-terminal
+* xfce-terminal
 
 File Manager
-** Thunar
+* Thunar
 
 Program Tambahan
-** Lapor Bug (asli Tea OS)
-** Install Tea OS(asli Grombyang OS)
-** OpenJDK Java
-** Gparted
+* Lapor Bug (asli Tea OS)
+* Install Tea OS(asli Grombyang OS)
+* OpenJDK Java
+* Gparted
 
 Task Manager
-** System Monitor
+* System Monitor
 
 Text Editor
-** Gedit
+* Gedit
