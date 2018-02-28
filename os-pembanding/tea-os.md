@@ -4,15 +4,15 @@ Tea OS adalah sistem operasi yang dibuat oleh mahasiswa UDINUS Semarang Jawa Ten
 
 Data Tea OS
 
--[x] Kernel			
--[x] Icon	 		
--[x] GTK				
--[x] DE
--[x] Font			
--[x] Turunan			
--[x] Repo 				
--[x] Resource RAM dan CPU
--[ ] Program Default	
+- [x] Kernel			
+- [x] Icon	 		
+- [x] GTK				
+- [x] DE
+- [x] Font			
+- [x] Turunan			
+- [x] Repo 				
+- [x] Resource RAM dan CPU
+- [x] Program Default	
 
 ---
 
