@@ -18,7 +18,7 @@ Data Grombyang OS
 
 | Kernel 				| Icon | GTK 		| Desktop Environment	| Font 		| Turunan 	| Repo 				|
 | ----   				|---   |---			|---					|---		|---		| ---				|
-|Linux Ubuntu 3.16.0 	|Moka  |Vimix-siva	|xfce 					|Droid Sans	|xubuntu 	| Katak Grombyang 	|
+|Linux Ubuntu 3.16.0 	|Moka  |Vimix-siva	|   xfce 				|Droid Sans	|xubuntu 	| Katak Grombyang 	|
 
 
 ## Resource RAM (RAM 1024)
