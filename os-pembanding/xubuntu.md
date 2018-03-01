@@ -4,15 +4,15 @@ Grombyang OS adalah sistem operasi yang dibuat oleh Devolper grOS  Jawa Tengah.
 
 Data Grombyang OS
 
-[x] Kernel			
-[x] Icon	 		
-[x] GTK				
--[x] DE
--[x] Font			
--[x] Turunan			
--[x] Repo 				
--[x] Resource RAM dan CPU
--[x] Program Default	
+- [x] Kernel			
+- [x] Icon	 		
+- [x] GTK				
+- [x] DE
+- [x] Font			
+- [x] Turunan			
+- [x] Repo 				
+- [x] Resource RAM dan CPU
+- [x] Program Default	
 
 ---
 
