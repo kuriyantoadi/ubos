@@ -16,14 +16,16 @@ Data Grombyang OS
 
 ---
 
-| Kernel 				| Icon | GTK 		| Desktop Environment	| Font 		| Turunan 	| Repo 				|
-| ----   				|---   |---			|---					|---		|---		| ---				|
-|Linux Ubuntu 3.16.0 	|Moka  |Vimix-siva	|   xfce 				|Droid Sans	|xubuntu 	| Katak Grombyang 	|
+| Kernel 				      | Icon | GTK 		    | DE	| Font 		  | Turunan 	| Repo 	    		  	|  
+| ----   				      |---   |---			    |---	|---		    |---		    | ---	  		      	|
+|Linux Ubuntu 3.16.0 	|Moka  |Vimix-siva	|xfce |Droid Sans	|xubuntu 	  | Katak Grombyang 	|
 
 
 ## Resource RAM (RAM 1024)
 RAM = 22 %
 CPU  = 9 %
+
+## Program Default
 
 Burning CD dan DVD 
 * Brasero
