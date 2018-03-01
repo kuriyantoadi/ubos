@@ -27,48 +27,48 @@ CPU  = 9 %
 
 ## Program Default
 
-Burning CD dan DVD 
+**Burning CD dan DVD**
 * Brasero
 
-Pemutar Musik
+**Pemutar Musik**
 * Audacious
 
-Pemutar Video
+**Pemutar Video**
 * VLC
 
-Pembuka PDF
+**Pembuka PDF**
 * Document Viewer
 
-Web Browser
+**Web Browser**
 * Firefox
 
-Chat Online 
+**Chat Online**
 * Messenger facebook
 * Thunderbird Mail
 * XChat IRC
 
-Download Torrent
+**Download Torrent**
 * Transmission
 
-Editor Photo
+**Editor Photo**
 * Gimp
 
-Vektor
+**Vektor**
 * Inkscape
 
-Burning ISO
+**Burning ISO**
 * UNetbootin
 
-Scan File
+**Scan File**
 * Simple Scan
 
-Belajar mengetik
+**Belajar mengetik**
 * Tux Typing
 
-Remote Desktop
+**Remote Desktop**
 * Remmina 
 
-Office 
+**Office**
 * LibreOffice
 * Libreoffice Base
 * LibreOffice Calc
@@ -77,17 +77,17 @@ Office
 * LibreOffice Math
 * LibreOffice Writer
 
-Education
+**Education**
 * LibreOffice Math
 
-Terminal 
+**Terminal**
 * xfce-terminal
 
-File Manager
+**File Manager**
 * Thunar
 
-Task Manager
+**Task Manager**
 * xfce-manager
 
-Text Editor
+**Text Editor**
 * leafpad
