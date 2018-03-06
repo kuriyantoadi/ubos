@@ -21,7 +21,7 @@
 ### Menganti Background grub
 letak konfigiurasi grub
 Jika tidak bisa diganti bebas untuk default
-* /boot/grub/grub.cfg <b>(salah)</b>
+* /boot/grub/grub.cfg <b>(salah)</b
 * /usr/share/desktop-base/softwaves-theme/grub <b>(salah)</b>
 [ ]
 <br><br>
@@ -47,6 +47,7 @@ Mengubah tampialn default background
 ### Menganti Icon
 Mengubah tampialn icon
 * posisi /usr/share/icon/
+* ~/.config/xfce4/xfconf/xfce-perchannel-xml/ (line 6)
 [x] Papirus (file/Papirus)
 <br><br>
 
@@ -54,6 +55,7 @@ Mengubah tampialn icon
 Mengubah tampilan tema
 setting -> tampilan
 * /usr/share/themes/ 
+* ~/.config/xfce4/xfconf/xfce-perchannel-xml/ (line 5)
 [x] Numix (file/Numix)
 [ ] matcha (file/matcha)
 <br><br>
@@ -61,7 +63,9 @@ setting -> tampilan
 ### Menganti icon menu
 Menganti icon menu
 * klik kanan -> propertis -> img
+* ~/.config/xfce4/panel/whiskermenu-1.rc
 [x] icon ubos (gambar/icon-ubos/icon.png)
+
 <br><br>
 
 ### Mengubah tampilan Terminal
