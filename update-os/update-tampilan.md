@@ -21,7 +21,7 @@
 ### Menganti Background grub
 letak konfigiurasi grub
 Jika tidak bisa diganti bebas untuk default
-* /boot/grub/grub.cfg <b>(salah)</b
+* /boot/grub/grub.cfg <b>(salah)</b>
 * /usr/share/desktop-base/softwaves-theme/grub <b>(salah)</b>
 [ ]
 <br><br>
