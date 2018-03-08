@@ -17,13 +17,13 @@ Data Grombyang OS
 ---
 
 ## Kernel
-
+Linux 4.4.0.31-generic
 
 ## Icon
-
+ubuntu-mono-dark
 
 ## GTK 
-
+Ambianece (GTK2/3)
 
 ## DE
 

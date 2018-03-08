@@ -4,12 +4,12 @@ Grombyang OS adalah sistem operasi yang dibuat oleh Devolper grOS  Jawa Tengah.
 
 Data Grombyang OS
 
--[ ] Kernel			
--[ ] Icon	 		
--[ ] GTK				
--[ ] DE
--[ ] Font			
--[ ] Turunan			
+-[x] Kernel			
+-[x] Icon	 		
+-[x] GTK				
+-[x] DE
+-[x] Font			
+-[x] Turunan			
 -[ ] Repo 				
 -[ ] Resource RAM dan CPU
 -[ ] Program Default	
@@ -17,22 +17,22 @@ Data Grombyang OS
 ---
 
 ## Kernel
-
+Linux 4.8.0-53-generic
 
 ## Icon
-
+Mint-X
 
 ## GTK 
-
+Mint-X (GTK2/3)
 
 ## DE
-
+Mate 1.18.00
 
 ## Font 
-
+Noto Sans 9
 
 ## Turunan
-
+Ubuntu
 
 ## Repo
 
@@ -46,16 +46,16 @@ Burning CD dan DVD
 ** 
 
 Pemutar Musik
-** 
+** rhytmbox
 
 Pemutar Video
-** 
+** media player
 
 Pembuka PDF
-** 
+** reader
 
 Web Browser
-** 
+** firefox
 
 Office 
 ** LibreOffice
@@ -80,3 +80,10 @@ Task Manager
 
 Text Editor
 ** 
+
+Photo Editor
+** gimp 
+
+Internet 
+** hexchat
+** pidgin internet massager
