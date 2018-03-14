@@ -14,3 +14,8 @@ Melakukan remaster xubuntu dengan mengubah wallpaper di folder
 ** Resolv ** Mengunakan xubuntu 14.04
 File dokumentasi adalah berkas dari ubuntu 16.04, lalu akan melakukan dokumentasi ulang di Xubuntu 14.04
 
+14 maret 2018 08:54
+gagal menginstall iso ubos, dari remaster xubuntu 16.04 dengan respin.
+<br>sudo respin dist cdfs
+<br>sudo respin dist iso custom.iso
+sampai tampilan grub saja
