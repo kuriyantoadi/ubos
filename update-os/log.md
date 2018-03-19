@@ -19,3 +19,15 @@ gagal menginstall iso ubos, dari remaster xubuntu 16.04 dengan respin.
 <br>sudo respin dist cdfs
 <br>sudo respin dist iso custom.iso
 sampai tampilan grub saja
+
+14 maret 2018 13:59
+packing dengan pinguy, xubuntu 16.04
+** Error **  packing ke iso gagal, karena hdd virtual terlalu kecil, 
+** Resolv **  tindak lanjud mengunakan virtual 30 GB yang awal nya 10 GB
+
+17 Maret 2018 07:01
+Pembuatan ISO ubos dengan pinguy, xubuntu 16.04
+
+18 Maret 2018 22:00
+memcoba iso dari packing dengan pinguy xubuntu 16.04
+** Error ** ISO tidak sesuai dibagian modifikasi tampilan,(Wallpaper, GTK, dan Icon) tidak berubah
