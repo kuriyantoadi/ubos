@@ -31,3 +31,8 @@ Pembuatan ISO ubos dengan pinguy, xubuntu 16.04
 18 Maret 2018 22:00
 memcoba iso dari packing dengan pinguy xubuntu 16.04
 ** Error ** ISO tidak sesuai dibagian modifikasi tampilan,(Wallpaper, GTK, dan Icon) tidak berubah
+
+24 maret 2018 08:06
+- Saran dari team blank on mengunakan app Squashfs_toools, Genisoimage remaster dengan ubuntu
+- dengan UCK ubuntu 16.04
+- Opensuse Studio
