@@ -36,3 +36,7 @@ memcoba iso dari packing dengan pinguy xubuntu 16.04
 - Saran dari team blank on mengunakan app Squashfs_toools, Genisoimage remaster dengan ubuntu
 - dengan UCK ubuntu 16.04
 - Opensuse Studio
+
+30 maret 2018 08:51
+- Mempersipkan percobaan baru dari link http://www.linuxin.id/2017/07/remastering-linux-ubuntu-dengan-uck.html
+- Melakukan penambahan repo dan install app uck
