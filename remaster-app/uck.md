@@ -1,3 +1,4 @@
+<br>sudo apt install dialog zenity kdebase-bin genisooimage dpkg-dev build-essential fakeroot gfxboot squashfs-tools bzr mktemp
 <br>modprobe squashfs
 <br>uck-remaster-unpack-rootfs
 <br>uck-remaster-unpack-initrd
