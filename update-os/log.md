@@ -40,3 +40,7 @@ memcoba iso dari packing dengan pinguy xubuntu 16.04
 30 maret 2018 08:51
 - Mempersipkan percobaan baru dari link http://www.linuxin.id/2017/07/remastering-linux-ubuntu-dengan-uck.html
 - Melakukan penambahan repo dan install app uck
+
+1 April 2018
+- Berhasil melakukan remaster pengantian repo di xubuntu 
+- Melakukan remaster dengan OS Ubuntu Server 16.04

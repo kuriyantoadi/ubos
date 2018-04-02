@@ -1,11 +1,4 @@
-  173  uck-remaster-chroot-rootfs 
-  174  sudo uck-remaster-chroot-rootfs 
-  175  uck-remaster-pack-initrd 
-  176  sudo uck-remaster-pack-initrd 
-  177  sudo uck-remaster-pack-rootfs 
-  178  sudo uck-remaster-pack-iso ubos.iso
-
-  346  sudo ip link set wlp7s0 up
-  347  sudo iwconfig essid "danang"
-  348  sudo iwconfig wlp7s0 essid "danang"
-  349  sudo dhclient wlp7s0 
+sudo ip link set wlp7s0 up
+sudo iwconfig essid "danang"
+sudo iwconfig wlp7s0 essid "danang"
+sudo dhclient wlp7s0 

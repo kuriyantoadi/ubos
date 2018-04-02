@@ -3,7 +3,7 @@
 Ini adala penulisan tentang update sistem yang berbasis umum, ini harus dibedakan dengan update app atau tampilan karena akan membahas tentang identitas dari sistem operasi **UBOS**.
 
 - [x] Update Kernel
-- [ ] Penambahan Repo
+- [x] Penambahan Repo
 - [x] Menganti informasi lsb release
 - [ ] Menganti nama sistem operasi waktu di grub
 - [ ] Menganti tampilan pada screenfetch
@@ -22,9 +22,7 @@ Melakukan updatae kernel ke kernel terbaru
 
 ### Penambahan Repo
 Melakukan penambahan atau pergantian repo, 
-* kambing.ui.ac.id
-* buaya.klas.or.id
-* kartolo.datautama.sby.net.id
+* kambing.ui.ac.id 
 <br><br>
 
 ### Mengganti lsb_release
