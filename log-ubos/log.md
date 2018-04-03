@@ -4,3 +4,4 @@
 - menambahkan file Papiurs ke icon
 - menambahkan file Numix ke themes
 
+- edit nama os di grub, file /etc/default/grub
