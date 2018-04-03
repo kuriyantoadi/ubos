@@ -33,6 +33,8 @@ Mengganti lsb_realese informasi
 ### Menganti nama sistem operasi waktu di grub
 Menganti nama sistem operasi digrub
 * /boot/grub/grub.cfg
+* /etc/default/grub (GRUB_DISTRIBUTOR='linux')
+
 <br><br>
 
 ### Menganti tampilan pada screenfetch
