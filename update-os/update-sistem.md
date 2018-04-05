@@ -2,12 +2,12 @@
 
 Ini adala penulisan tentang update sistem yang berbasis umum, ini harus dibedakan dengan update app atau tampilan karena akan membahas tentang identitas dari sistem operasi **UBOS**.
 
-- [x] Update Kernel
+- [ ] Update Kernel
 - [x] Penambahan Repo
 - [x] Menganti informasi lsb release
 - [ ] Menganti nama sistem operasi waktu di grub
 - [ ] Menganti tampilan pada screenfetch
-- [x] Mengaktifkan Tombol super
+- [ ] Mengaktifkan Tombol super
 
 ----
 

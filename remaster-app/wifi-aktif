@@ -1,4 +1,3 @@
 sudo ip link set wlp7s0 up
-sudo iwconfig essid "danang"
 sudo iwconfig wlp7s0 essid "danang"
 sudo dhclient wlp7s0 

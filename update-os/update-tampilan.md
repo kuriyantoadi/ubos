@@ -4,10 +4,10 @@
 - [ ] Menganti Backgroud grub			
 - [ ] Menganti Wallpaper dan logo booting
 - [x] Menganti Backgroud wallpaper
-- [x] Menganti Icon		
-- [x] Menganti GTK Thema				
-- [x] Menganti icon menu
-- [x] Mengubah tampilan Terminal
+- [ ] Menganti Icon		
+- [ ] Menganti GTK Thema				
+- [ ] Menganti icon menu
+- [ ] Mengubah tampilan Terminal
 
 
 --------------------------------------------------------------------------------------------------------------------
@@ -32,6 +32,8 @@ menganti tampilan booting
 * /etc/lightdm/lightdm-gtk-greeter.conf (konfigurasi awal)
 * /lib/plymount/themes/xubuntu/xubuntu-logo/wallpaper.png (posisi file)
 * /lib/plymount/themes/xubuntu/xubuntu-logo/xubuntu-logo.script (file kongurasi posisi)
+
+* masih belum ketemu (file dan konfiguras blm di temukan)
 [ ] Logo booting
 [ ] Wallpaper booting
 <br><br>
