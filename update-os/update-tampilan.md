@@ -28,7 +28,7 @@ Jika tidak bisa diganti bebas untuk default
 
 ### Menganti logo dan text booting
 menganti tampilan booting
-* /usr/share/plymouth/themes/xubuntu-logo/ (gagal)
+* /usr/share/plymouth/themes/xubuntu-logo/ (benar)
 * /etc/lightdm/lightdm-gtk-greeter.conf (konfigurasi awal)
 * /lib/plymount/themes/xubuntu/xubuntu-logo/wallpaper.png (posisi file)
 * /lib/plymount/themes/xubuntu/xubuntu-logo/xubuntu-logo.script (file kongurasi posisi)
@@ -60,6 +60,9 @@ Mengubah tampilan tema
 setting -> tampilan
 * /usr/share/themes/ 
 * ~/.config/xfce4/xfconf/xfce-perchannel-xml/ (line 5)
+
+/usr/share/glib-2.0/schemas/20_xubuntu-default-settings.gschema.override
+
 [x] Numix (file/Numix)
 [ ] matcha (file/matcha)
 <br><br>
@@ -68,6 +71,9 @@ setting -> tampilan
 Menganti icon menu
 * klik kanan -> propertis -> img
 * ~/.config/xfce4/panel/whiskermenu-1.rc
+
+/usr/share/glib-2.0/schemas/20_xubuntu-default-settings.gschema.override
+
 [x] icon ubos (gambar/icon-ubos/icon.png)
 
 <br><br>
