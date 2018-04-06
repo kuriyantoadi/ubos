@@ -51,6 +51,8 @@ Mengubah tampialn icon
 * posisi /usr/share/icon/
 * ~/.config/xfce4/xfconf/xfce-perchannel-xml/ (line 6)
 [x] Papirus (file/Papirus)
+
+/usr/lib/x86_64-linux-gnu/xfce4/xfconf/xfconfd
 <br><br>
 
 ### Menganti GTK
