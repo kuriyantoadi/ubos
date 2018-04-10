@@ -2,10 +2,10 @@
 
 - [ ] Menganti tampilan installasi berlangusng
 - [ ] Menganti Backgroud grub			
-- [ ] Menganti Wallpaper dan logo booting
+- [x] Menganti Wallpaper dan logo booting
 - [x] Menganti Backgroud wallpaper
-- [ ] Menganti Icon		
-- [ ] Menganti GTK Thema				
+- [x] Menganti Icon		
+- [x] Menganti GTK Thema				
 - [ ] Menganti icon menu
 - [ ] Mengubah tampilan Terminal
 
@@ -40,42 +40,25 @@ menganti tampilan booting
 
 ### Menganti backgrourd wallpaper
 Mengubah tampialn default background
-* posisi wallpaper /usr/share/backgroud/ <b>(salah)</b>
-* ~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-desktop.xml <b>(posisi konfigurasi)</b>
 * /usr/share/xfce4/backdrops/ <b>(posisi tersimpan)</b>
-[x] wallpaper backgroud (gambar/backgroud/bg-wallpaper.png)
 <br><br>
 
 ### Menganti Icon
 Mengubah tampialn icon
-* posisi /usr/share/icon/
-* ~/.config/xfce4/xfconf/xfce-perchannel-xml/ (line 6)
-[x] Papirus (file/Papirus)
-
-/usr/lib/x86_64-linux-gnu/xfce4/xfconf/xfconfd
+/usr/share/icons/elementary-xfce-darker
+[x] Paparius
 <br><br>
 
 ### Menganti GTK
 Mengubah tampilan tema
-setting -> tampilan
-* /usr/share/themes/ 
-* ~/.config/xfce4/xfconf/xfce-perchannel-xml/ (line 5)
-
-/usr/share/glib-2.0/schemas/20_xubuntu-default-settings.gschema.override
-
-[x] Numix (file/Numix)
-[ ] matcha (file/matcha)
+/usr/share/themes/Greybird
+[x] OSX-Arc-White
 <br><br>
 
 ### Menganti icon menu
 Menganti icon menu
-* klik kanan -> propertis -> img
-* ~/.config/xfce4/panel/whiskermenu-1.rc
-
-/usr/share/glib-2.0/schemas/20_xubuntu-default-settings.gschema.override
-
-[x] icon ubos (gambar/icon-ubos/icon.png)
-
+/usr/share/icons/elementary-xfce-darker
+[x] Paparius
 <br><br>
 
 ### Mengubah tampilan Terminal
