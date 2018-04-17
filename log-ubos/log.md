@@ -5,3 +5,7 @@
 - menambahkan file Numix ke themes
 
 - edit nama os di grub, file /etc/default/grub
+
+17 april 2018
+sudah siap menganti slides pada install xubuntu
+
