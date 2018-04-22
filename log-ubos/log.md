@@ -9,3 +9,5 @@
 17 april 2018
 sudah siap menganti slides pada install xubuntu
 
+22 april 2018
+Membuat program bersis shell untuk mempermudah perubahan update tampilan
