@@ -11,3 +11,6 @@ sudah siap menganti slides pada install xubuntu
 
 22 april 2018
 Membuat program bersis shell untuk mempermudah perubahan update tampilan
+
+23 april 2018
+Membuat program berbasis shell untuk memudahkan ganti wallpaper dan pasang repo
