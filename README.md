@@ -1,2 +1,2 @@
 # ubos
-Belajar membuat sistem operasi bebasis xubuntu 14.04
+Belajar membuat sistem operasi bebasis xubuntu 16.04 bit 64

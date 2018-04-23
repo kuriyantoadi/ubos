@@ -23,11 +23,14 @@ Melakukan updatae kernel ke kernel terbaru
 ### Penambahan Repo
 Melakukan penambahan atau pergantian repo, 
 * kambing.ui.ac.id 
+[x] program .sh sudah di buat
 <br><br>
 
 ### Mengganti lsb_release
 Mengganti lsb_realese informasi
 * /etc/lsb_release
+[x] menganti lsb-release 
+[x] program .sh sudah di buat
 <br><br>
 
 ### Menganti nama sistem operasi waktu di grub
