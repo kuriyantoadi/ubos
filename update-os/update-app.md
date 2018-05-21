@@ -31,13 +31,13 @@ Ini adalah file dokumentasi penulisan daftar aplikasi standar yang akan dipasang
 <br><br>
 
 ### Terminal
-* xfce4-terminal 
+* xfce4-terminal
 * terminix
 <br><br>
 
 ### Pembuka Multimedia
 Pemutar Musik
-* Rhythmbox 
+* Rhythmbox
 ?
 Pembuka Video
 * VLC
@@ -86,4 +86,3 @@ Simulasi Jaringan
 Program localserver
 * lampp
 <br><br>
-
