@@ -36,7 +36,7 @@ Mengubah tampialn default background
 ### Menganti Icon
 Mengubah tampialn icon
 * /usr/share/icons/elementary-xfce-darker
-[x] Paparius
+[x] La-capitane
 <br><br>
 
 ### Menganti GTK
@@ -45,11 +45,15 @@ Mengubah tampilan tema
 [x] OSX-Arc-White
 <br><br>
 
-### Menganti icon menu
+### Menganti icon menu (whisker)
 Menganti icon menu
 * /usr/share/pixmaps/xubuntu-logo-menu.png
 [x] sudah di buat
 <br><br>
+
+Menganti bentuk menu
+* /usr/share/xfce
+* /usr/share/xfcemint/xfce-applications.menu
 
 ### Mengubah tampilan Terminal
  * tampilan warna (tango)
